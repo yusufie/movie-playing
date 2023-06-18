@@ -1,0 +1,12 @@
+{
+  "name": "movie-playing",
+  "version": "1.0.0",
+  "description": "This is a movie database project, where it shows movies, their casts, ratings, trailers, related movies, genres, and so on.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
